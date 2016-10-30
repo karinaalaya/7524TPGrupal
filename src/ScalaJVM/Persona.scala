@@ -1,4 +1,4 @@
-package common
+package ScalaJVM
 
 class Persona(val nombre: String, val edad: Int) extends Comparable[Persona]{
     def Nombre() = nombre

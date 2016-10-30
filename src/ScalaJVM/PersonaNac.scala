@@ -1,3 +1,5 @@
+package ScalaJVM
+
 import java.util.{Date, Locale}
 import java.text.DateFormat._
 
