@@ -11,9 +11,10 @@ object HighOrder extends App{
   
   val (menores, adultos) = personas partition (_.edad < 18)
   
+  println("")
   println("Cantidad de personas mayores: " + menores.size)
   println("Cantidad de personas menores: " + adultos.size)
-
+  println("")
   
   val iterator = menores.iterator
   while (iterator.hasNext){
