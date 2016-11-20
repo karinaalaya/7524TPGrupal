@@ -6,3 +6,4 @@ bin/ScalaJVM/Lazy$.class
 bin/ScalaJVM/Lazy$delayedInit$body.class
 bin/ScalaJVM/Lazy.class
 .cache-main
+/bin/
